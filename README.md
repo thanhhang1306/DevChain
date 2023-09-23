@@ -5,7 +5,7 @@
 DevChain is a groundbreaking platform aiming to resolve the challenges faced when connecting ideators with developers within the web3 landscape. Utilizing the Tron blockchain, it establishes a secure and transparent realm where project concepts can be collaboratively exchanged and developed, all while safeguarding the intellectual property of the ideators. This README offers a concise summary of the project's methodology, execution plans, technological insights, and business strategies.
 
 ### Whitepaper
-Further details can be explored in our comprehensive [whitepaper](https://docs.google.com/forms/d/e/1FAIpQLSeVddLink).
+Further details can be explored in our comprehensive [whitepaper]([https://docs.google.com/forms/d/e/1FAIpQLSeVddLink](https://docs.google.com/document/d/1X_sRN3sdqNOvg42_gVmh1VCgwsBfSsgPQfL5i4wMDmQ/edit?usp=sharing)).
 
 ### Design
 Our user-friendly interface designs are available for viewing on [Figma](https://www.figma.com/file/AaCnw6jjyYPHlPQzKklUvN/Untitled?type=design&node-id=0%3A1&mode=design&t=qBaNZrd5lqVBvTUy-1).
