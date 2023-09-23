@@ -7,6 +7,9 @@ DevChain is a groundbreaking platform aiming to resolve the challenges faced whe
 ### Whitepaper
 Further details can be explored in our comprehensive [whitepaper](https://docs.google.com/document/d/1X_sRN3sdqNOvg42_gVmh1VCgwsBfSsgPQfL5i4wMDmQ/edit?usp=sharing).
 
+### Slide Deck
+Out pitch slides are available on [Google Slides](https://docs.google.com/presentation/d/1PAhptSddFjJy_Zh7iU-lNnhaRowMa0mWdo2utdcnDdU/edit?usp=sharing).
+
 ### Design
 Our user-friendly interface designs are available for viewing on [Figma](https://www.figma.com/proto/AaCnw6jjyYPHlPQzKklUvN/DevChain-Mockup?type=design&node-id=1-19503&t=XR4SwJweMX5aslhs-1&scaling=scale-down&page-id=0%3A1&mode=design). 
 Here is the link to the [mockup](https://www.figma.com/file/AaCnw6jjyYPHlPQzKklUvN/Untitled?type=design&node-id=0%3A1&mode=design&t=qBaNZrd5lqVBvTUy-1).
